@@ -1,0 +1,8 @@
+{
+  "name": "Aether Studio",
+  "description": "AI-powered professional broadcast workstation for real-time media production.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
